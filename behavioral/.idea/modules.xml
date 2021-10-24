@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_2/2056-design-patterns-java-1-aula_2.iml" filepath="$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_2/2056-design-patterns-java-1-aula_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_6/2056-design-patterns-java-1-aula_6.iml" filepath="$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_6/2056-design-patterns-java-1-aula_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/behavioral.iml" filepath="$PROJECT_DIR$/behavioral.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chainofreligion/chainofreligion.iml" filepath="$PROJECT_DIR$/chainofreligion/chainofreligion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chainofresponsability/chainofresponsability.iml" filepath="$PROJECT_DIR$/chainofresponsability/chainofresponsability.iml" />
     </modules>
   </component>
 </project>
