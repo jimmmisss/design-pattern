@@ -5,7 +5,7 @@ import br.com.command.service.GeraPedidoHandler;
 
 import java.math.BigDecimal;
 
-public class TesteDescontoPedido {
+public class TestePedido {
 
     public static void main(String[] args) {
 
