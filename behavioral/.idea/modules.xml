@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_1/2056-design-patterns-java-1-aula_1.iml" filepath="$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_1/2056-design-patterns-java-1-aula_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_2/2056-design-patterns-java-1-aula_2.iml" filepath="$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_2/2056-design-patterns-java-1-aula_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_3/2056-design-patterns-java-1-aula_3.iml" filepath="$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_3/2056-design-patterns-java-1-aula_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_4/2056-design-patterns-java-1-aula_4.iml" filepath="$PROJECT_DIR$/../../.alura/2056-design-patterns-java-1-aula_4/2056-design-patterns-java-1-aula_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/behavioral.iml" filepath="$PROJECT_DIR$/behavioral.iml" />
       <module fileurl="file://$PROJECT_DIR$/chainofresponsability/chainofresponsability.iml" filepath="$PROJECT_DIR$/chainofresponsability/chainofresponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state/state.iml" filepath="$PROJECT_DIR$/state/state.iml" />
       <module fileurl="file://$PROJECT_DIR$/templatemethod/templatemethod.iml" filepath="$PROJECT_DIR$/templatemethod/templatemethod.iml" />
     </modules>
   </component>
